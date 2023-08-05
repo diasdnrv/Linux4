@@ -1,0 +1,9 @@
+0 cd /tmp
+1 vi file.txt
+2 df -h
+3 df -h | head -3 > file.txt
+4 cat file.txt
+5 la -al
+6 chmod q+w file.txt
+7 chmod u-r file.txt
+8 chmod o+x file.txt
